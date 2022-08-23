@@ -1,3 +1,3 @@
-nmp install -g yarn
-yarn install 
-yarn start
+nmp install -g yarn,
+yarn install, 
+yarn start,
